@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ponto Congelação</string>
+  <string name="alcohol">Álcool</string>
+  <string name="volume">Volume</string>
+  <string name="name">Nome</string>
+  <string name="vat">Cuba</string>
+  <string name="ok">OK</string>
+  <string name="totalVolume">Vol. Total</string>
+  <string name="average">Média</string>
+  <string name="freezingWhite">Congelação Branco</string>
+  <string name="freezingRed">Congelação Tinto</string>
+  <string name="delete">Apagar</string>
+  <string name="newWine">Novo</string>
+  <string name="deleteAll">Apagar Tudo</string>
+</resources>

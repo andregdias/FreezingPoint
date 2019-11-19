@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">Freezing Point</string>
+
+  <string name="alcohol">Alcohol</string>
+  <string name="volume">Volume</string>
+  <string name="name">Name</string>
+  <string name="vat">Vat</string>
+
+  <string name="totalVolume">Total Vol.</string>
+  <string name="average">Average</string>
+  <string name="freezingWhite">Freezing White</string>
+  <string name="freezingRed">Freezing Red</string>
+
+  <string name="newWine">New</string>
+  <string name="deleteAll">Delete All</string>
+  <string name="ok">OK</string>
+  <string name="delete">Delete</string>
+</resources>
